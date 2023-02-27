@@ -1,0 +1,37 @@
+.container {
+  margin-top: 40px;
+}
+
+.aa {
+  border: 2px solid black;
+  width: 500px;
+  margin: auto;
+}
+.btn {
+  display: flex !important;
+  justify-content: center;
+  margin: auto !important;
+  margin-bottom: 30px !important;
+  width: 250px;
+  color: black;
+  background-color: transparent !important;
+}
+.select {
+  background-color: green !important;
+}
+.wrong {
+  background-color: red !important;
+}
+
+.a2 {
+  background-color: royalblue;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
+.a3 {
+  background-color: rgba(255, 0, 0, 0.511);
+  border: 1px solid black;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}

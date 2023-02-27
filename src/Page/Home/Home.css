@@ -1,0 +1,19 @@
+.cont {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+
+  padding-left: 300px;
+
+  padding-right: 300px;
+}
+.bo {
+  margin-top: 30px;
+
+  width: fit-content;
+  margin: auto;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
